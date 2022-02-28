@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last nevves from the Prince of Wales: declaring His further proceedings against the Par- [sic] Parliaments forces, and Captain Battens joyning with his Highnesse, with 5000. men from Holland. And another great and bloudy fight between his Highnesse forces, and the Parliaments; with the number killed and taken, the manner of the fight, and how the Princes foot routed Col. Rich his horse, and put them to a disorderly retreat, by throwing wild-fire, &amp; granadoes amongst them, which they carried on the end of thier pikes. Also, the firing of the guards belonging to the Parliaments forces by the princes foot, and above 100. slain upon the place near Deal Towns-end. Likewise, a discovery of the resolution of divers of the inhabitants of Sandwich, to rise for the King, with spades, mattocks, felling-axes, spits, and pitchforks, to beat out the Parliaments forces, and to seize on the town for the Prince.</title>
+            <author>P. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89977</idno>
+            <idno type="STC">Wing N65</idno>
+            <idno type="STC">Thomason E460_11</idno>
+            <idno type="STC">ESTC R205111</idno>
+            <idno type="EEBO-CITATION">99864549</idno>
+            <idno type="PROQUEST">99864549</idno>
+            <idno type="VID">162134</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89977)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162134)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E460[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last nevves from the Prince of Wales: declaring His further proceedings against the Par- [sic] Parliaments forces, and Captain Battens joyning with his Highnesse, with 5000. men from Holland. And another great and bloudy fight between his Highnesse forces, and the Parliaments; with the number killed and taken, the manner of the fight, and how the Princes foot routed Col. Rich his horse, and put them to a disorderly retreat, by throwing wild-fire, &amp; granadoes amongst them, which they carried on the end of thier pikes. Also, the firing of the guards belonging to the Parliaments forces by the princes foot, and above 100. slain upon the place near Deal Towns-end. Likewise, a discovery of the resolution of divers of the inhabitants of Sandwich, to rise for the King, with spades, mattocks, felling-axes, spits, and pitchforks, to beat out the Parliaments forces, and to seize on the town for the Prince.</title>
+                  <author>P. N.</author>
+                  <author>Porter, Hen.</author>
+                  <author>West, W., fl. 1648.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at the bottom of p.4: P.N.</note>
+                  <note>"The last news from the two armies of England and Scotland," is dated and signed at the bottom of p.[6]: Lan. 17. Aug. 1648. Hen. Porter, W. West.</note>
+                  <note>Annotation on Thomason copy: "Aug ye 21th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Royalists --  England --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162134:1" rendition="simple:additions"/>
+            <p>THE LAST NEVVES FROM THE Prince of Wales: DECLARING His further proceedings againſt the Par<g ref="char:EOLhyphen"/>Parliaments Forces, and Captain BATTENS joyning with his Highneſſe, with 5000. men from <hi>Hol<g ref="char:EOLhyphen"/>land.</hi> And another great and bloudy fight between his Highneſſes forces, and the Parliaments; with the number killed and taken, the manner of the Fight, and how the Princes Foot rou<g ref="char:EOLhyphen"/>ted Col. <hi>Rich</hi> his Horſe, and put them to a diſorderly Retreat, by throwing Wild-fire, &amp; Granadoes amongſt them, which they carried on the end of their Pikes.</p>
+            <p>Alſo, the firing of the Guards belonging to the Parliaments Forces by the Princes Foot, and above 100. ſlain upon the place near <hi>Deal</hi> Towns-end. Likewiſe, a diſco<g ref="char:EOLhyphen"/>very of the Reſolution of divers of the Inhabitants of <hi>Sandwich,</hi> to riſe for the King, with Spades, Mattocks, Felling-Axes, Spits, and Pitch<g ref="char:EOLhyphen"/>forks, to beat out the Parliaments Forces, and to ſeize on the Town for the Prince.</p>
+            <p>LONDON, Printed ANNO DOM. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162134:2"/>
+            <pb n="1" facs="tcp:162134:2"/>
+            <head>JOYFULL NEVVES FROM THE Prince of Wales, AND A GREAT FIGHT BETWEEN His Highneſſes Forces, and the Parlia<g ref="char:EOLhyphen"/>ments, ſince the late Overthrow, Captai<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Batters</hi> joyning with his Highneſſe with 5000. men, &amp;c.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR.</salute>
+                  </opener>
+                  <p>MY kind love preſented to you, &amp;c. I would not have you think that I any way neglected the performance of what promiſed but the truth is, I had the laſt week writ to you, but could not tell how to ſend it, which I was very ſory for. The newes now is,
+<pb n="2" facs="tcp:162134:3"/>the Ships or divers of them have attempted to fetch wa<g ref="char:EOLhyphen"/>ter by their Boates in the Iſle of <hi>Thanet,</hi> but as yet could not, and have been beaten back again, upon which they have threatned to ſhoute down <hi>Marget,</hi> we underſtand that Captain <hi>Batten</hi> is come with 6. Sayle of Ships from <hi>Holland,</hi> and that there cannot be leſſe then 5000. men a<g ref="char:EOLhyphen"/>bord the ſhips, The laſt Thurſday morning the enemy ſallied out of <hi>Sandown</hi> Caſtle upon our Guard, who not being many retreated ſome ſm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll matter from the houſe where they kept Guard, ſo that the enemy poſſeſſed them<g ref="char:EOLhyphen"/>ſelves of the houſe a while, and after fired it, after this our forces (being very inconſiderable) drew up and charged them, but the diſpute held not long, the enemy ran away and made what haſt they could into the Caſtle, which our horſe, there then upon the Guard ſeeing, pur<g ref="char:EOLhyphen"/>ſued them, and wounded moſt of them, have taken and killed above 20. with the loſſe of one Trooper, and one Foote, as alſo 6. or 7. wounded, which we hope will do well, they have been verie quiet ever ſince for ought we ſee, it is certainly known by a Drummer that came out of the Caſtle that day, that the man that fired the houſe then, and he that fired the new houſe of Sir <hi>Math: Mennis</hi> a fortnight ſince, were both killed this time, and it is fur<g ref="char:EOLhyphen"/>ther reported by a woman that was in a houſe near the place where they fought, that ſome of the enemy as they ran away ſaid one to another, who would have thought the rogues would have fought ſo, after which skirmiſh the Ships landed about 300. men, and with them 3. Co<g ref="char:EOLhyphen"/>lours, who kept a while by the Sea ſide, and after took their Boats, and went aboard again, The laſt Saturday there came about 20. out of the Caſtle, but when there was a party dr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wn to fight, they retreated and ran all in<g ref="char:EOLhyphen"/>to the Caſtle; this day being Monday, we had intelligence by two men that came out of the Ships laſt night, there
+<pb n="3" facs="tcp:162134:3"/>was near 600. landed, moſt Seamen, and did intend to fall on the leagure about 12. a Clock, which they did accor<g ref="char:EOLhyphen"/>dingly, but came ſhort off, there was near 700. of the ene<g ref="char:EOLhyphen"/>my engaged and came to <hi>Deale</hi> Towns end, and had a hot diſpute, near 400. ſlain, wounded, and taken priſoners; whereof Sir <hi>John Boys</hi> is one who is ſhot as moſt of them are, I do believe that you will hear more fully ſuddainly from Col. <hi>Rich.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Sandwich <date>Aug. 19. 1648.</date>
+                     </dateline>
+                     <signed>I remain, yours to uſe P. N.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon Friday morning laſt, being the 18. of this inſtant, about 5. a Clock in the morning, the enemy made ano<g ref="char:EOLhyphen"/>ther ſally, which allarmed our men, their number conſi<g ref="char:EOLhyphen"/>ſted of 400. 200. being Seamen, who had 4. Colours which they brought from aboard the Princes Ship, with this Motto, <hi>For Religion, King, and Kingdom,</hi> and making their approach near our Guards, our Musketiers fired, they anſwered them ag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in; but the enemy coming on ſo faſt, and ſuch fury, our men were forced to quit two Guards, the Princes forces ſet fire on them, and purſued our men; whereupon, the horſe having received this Al<g ref="char:EOLhyphen"/>larm, immediately mounted, and advanced towards the ſaid forces; the enemies foot attended their motion, and prepared to receive them, who upon the end of each Pike, had a Ball of Wild-fire faſtned thereunto, each Pikeman having his match lighted, ready to fire, and upon the advance of our horſ to charge them, they diſplayed their Balls of Wild-fire, which much amazed our men; inſomuch, that they were put to a very diſorderly retreat, the enemy purſuing not, our horſe rallied, but before they could gain their loſt ground, to make good their Charge, they were retreated into the Caſtle; they purſued within a quarter of a mile of the Caſtle. In this action we loſt 9. men, &amp; ſome wounded, the Enemies number is not known. We have late<g ref="char:EOLhyphen"/>ly received advertiſements from the Downs, that a great acci<g ref="char:EOLhyphen"/>dent hath befallen his Highneſſe the P. of Wales, by Gunpowder, and endangered the loſſe of both his eyes, but (praiſed be God) there is great hopes of his recovery.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:162134:4"/>
+                  <opener>
+                     <salute>SJR,</salute>
+                  </opener>
+                  <p>MY kind love ſalute you &amp;c. I have received your letter, for the which I give you many thanks, Sir <hi>Michael Liueſey</hi> thanks you for your care in the delivery of his letters. Now for Intelligence, I wiſh I had more to furniſh you with, then now I have, but I deſire you to take notice, that here hath been a wicked D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſign and Pl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t diſcovered of ſome that ſhould have betrayed this Town t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the enemy, <hi>viz.</hi> That they ſhould riſe one night about <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. of the Clock, whether the time be paſt or yet to come, it is not known, (but I hope they are diſmiſſed of their intentions) with Shovells, Spades, Mattocks Fel<g ref="char:EOLhyphen"/>ling-Axes, Spits, Pitchforks, and ſuch other helliſh In<g ref="char:EOLhyphen"/>ſtruments, to have cut off ſome of the Guards, and to have let an enemy in, and for to have ſeized on the Town for the King, (as ſaid) all which one <hi>William Clark</hi> a Ma<g ref="char:EOLhyphen"/>ſon of this Town, related to one who he ſuppoſed to be his Friend, by whoſe meanes it came to light, and <hi>Clark</hi> is impriſoned about it, I doubt not but God in his due time will bring it further to light, and fruſtrate the inten<g ref="char:EOLhyphen"/>tions &amp; plottings of ſuch as would deſtry his people, The reaſon I have not other newes to furniſh you with is, for that Sir <hi>Michael Liueſey</hi> hath been from <hi>Sandwich</hi> from Monday to Saturday laſt week, The Revolted Ships are yet in the Downs, and ſtay all Veſſells that come near, The Caſtles hold out ſtill, but its confidently reported, <hi>Deale</hi> Caſtle will be ſuddainly ſurrendred, for it is ſaid, there are many ſick in it, and the Granadoes make work amongſt them, the ſurrendring of which, as alſo of the o<g ref="char:EOLhyphen"/>ther, is much wiſhed.</p>
+                  <closer>
+                     <dateline>Sandwich <date>the 19. of Aug. 1648.</date>
+                     </dateline>
+                     <signed>Your Servant P. N,</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:162134:4"/>
+                  <head>The laſt News from the two Armies of <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Scotland,</hi> communicating the near engagement of both Armies, and the Reſolution and proceedings of the <hi>Scots.</hi>
+                  </head>
+                  <head type="sub">To their honoured friends the Committee of the County of <hi>Lan<g ref="char:EOLhyphen"/>c<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſter,</hi> now at <hi>Mancheſter,</hi> theſe.</head>
+                  <opener>
+                     <salute>Gentlemen.</salute>
+                  </opener>
+                  <p>IN ours to Sir <hi>Richard Hoghton</hi> we gave you a ſhort Character of the Scots Army now quartered all along the borders of our County, both on the Lancaſhire and Weſtmerland fide, Truly what we ſaid of them yeſterday was but the expresſing their Delineaments of Hercules by the foot; We ſpare to ſpake the worſt of them, leaſt we ſhould forfeit that cresence you have towards us, and not be beleived; but aſſure your ſelves, they by their daily incurſions into our poor Country, between this and their quarters have left nothing in all the World that is porta<g ref="char:EOLhyphen"/>ble.</p>
+                  <p>In divers places ſome whole families have not left them wherewith to ſubſiſt a day, but are glad <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o come hether fo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> meer ſubſiſtance, they have taken forth of di<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers fa<g ref="char:EOLhyphen"/>mi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> all, the very rackencrocks and pothooks; they have d<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ven away all the Beaſts, Sheep and Horſes in divers Townſhips, all without redem<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion ſave ſome poore milch-kine: They tell the people th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y muſt have their houſes too, and we verily beleive it muſt be ſo, becauſe Duke Hamilton hath told them it ſhould be ſo, Their
+<pb facs="tcp:162134:5"/>uſage of ſome women is extreamly abominable, and of men very barberous, wherein we apprehend, nevertheleſſe ſomthing of Gods Juſtice towards very many, who have abundantly deſired and rejoyced at their advance hither: Old extream Cavaliers, whom they have moſt oppreſſed in their acts of violence and plunder to our great admi<g ref="char:EOLhyphen"/>ration.</p>
+                  <p>They raile without meaſure againſt our Miniſters, and threaten the deſtruction of ſo many as they can get; ma<g ref="char:EOLhyphen"/>ny Cavaliers have ſent into Furneſs, and Cartmel to Sir <hi>Thomas Tilſley</hi> for Protections, but the Scots weigh not their pro<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ections a ruſh, and <hi>Tilſley</hi> himſelf tells the Cava<g ref="char:EOLhyphen"/>liers he can do them no good, but wiſhes them to uſe their beſt ſhifts in putting their goods out of the way; they ſay they'le not leave the County worth any thing: they make no account of <hi>Lambert,</hi> they ſay he is run away: They are yet in quarters at Burton, Kirby, Whittington, &amp;c. and the Engliſh at Encroſs and Furneſs; they have driven a<g ref="char:EOLhyphen"/>way above 600 Cattel, and above 1500 ſheep they have given ſuch earneſt of their conditions that the Countrie have wholly driven away their cattel of all ſorts towards Yorkſhire, and the bottom of Lancaſhire; forty great droves at leaſt are gone from us, and through this Towne this day. But we hope this ſad diſtraction will ſhortly cleer up by the timely conjunction of our forces, and by the cheerfull riſing of our Countrie; whereof we are aſſu<g ref="char:EOLhyphen"/>red they never ſtood in half ſo much need, for all the ſuffe<g ref="char:EOLhyphen"/>rings they have endured. We pray you let us know the bu<g ref="char:EOLhyphen"/>ſineſſe of the North and we ſhall give you an account of what we daily learn, concerning the enemies motion or deſign, wherein we ſhall deſire to be,</p>
+                  <closer>
+                     <dateline>Lan. <date>17. Aug. 1648.</date>
+                     </dateline>
+                     <signed>Your moſt aſſured and ready friends to ſerve you
+<list>
+                           <item>Hen. Porter.</item>
+                           <item>W. Weſt</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
